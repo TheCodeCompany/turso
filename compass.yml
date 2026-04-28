@@ -1,0 +1,16 @@
+name: turso
+id: ari:cloud:compass:533b272b-8173-4253-87d9-940771413563:component/a229cc28-599b-4398-a01f-2bb2f7cc664c/5fb5f4da-21c1-4fb2-bb0f-a499007c4fcc
+description: Turso is an in-process SQL database, compatible with SQLite.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/TheCodeCompany/turso
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
